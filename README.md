@@ -9,5 +9,5 @@ Make sure you change the root directory of your koken installation. If your Koke
 
 Execute the script by running `php pre-cache.php` in the command line.
 
-[Imgur](http://i.imgur.com/B6U10Jg.png)
+![IMG](http://i.imgur.com/B6U10Jg.png)
 
